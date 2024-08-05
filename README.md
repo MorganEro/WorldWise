@@ -1,10 +1,10 @@
-# Advanced CSS Course--WorldWise
+# Ultimate React Course--WorldWise
 
 This is a udemy course practive building a vite/react project
 
 ## Table of contents
 
-- [Advanced CSS Course--WorldWise](#advanced-css-course--worldwise)
+- [Ultimate React Course--WorldWise](#ultimate-react-course--worldwise)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -22,8 +22,8 @@ This is a udemy course practive building a vite/react project
 
 ### Links
 
-- Solution URL: (https://github.com/MorganEro/Natours-css-and-sass-)
-- Live Site URL: (https://morganero.github.io/Natours-css-and-sass-/)
+- Solution URL: (https://github.com/MorganEro/WorldWise)
+- Live Site URL: (https://morganero.github.io/WorldWise/)
 
 ### Built with
 
@@ -32,13 +32,13 @@ This is a udemy course practive building a vite/react project
 
 ### What I learned
 
-1. lots of cool animations and haver effects
-2. custom nav popup button
-3. custom form
-4. clip-path ot make shaped borders
-5. animated background images
-6. using autoprefixer
-7. responsive images
+1. creating a react project with Vite
+2. adding eslint support to a vite/react project
+3. using ReactRouter in my project
+4. using nested Routes
+5. using css modules to scope css styling to components
+6. fetch with try/catch/finally block
+7. custom spinner component for isLoading state
 
 ### Continued development
 
@@ -47,4 +47,4 @@ I want to continue to grow my knowledge of React and its many capabilities.
 ## Author
 
 - Website - [Morgan Ero] (https://github.com/MorganEro)
-- Advanced CSS Course- [Jonas Schmedtmann] UDEMY
+- Ultimate React Course- [Jonas Schmedtmann] UDEMY
