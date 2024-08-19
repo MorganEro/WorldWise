@@ -37,28 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Munich",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-03-15T10:30:00.000Z",
-      "notes": "Beautiful city with rich history",
-      "position": {
-        "lat": 48.1351253,
-        "lng": 11.5819806
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Barcelona",
+      "cityName": "Guntin",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-04-20T14:45:00.000Z",
-      "notes": "Vibrant culture and architecture",
+      "date": "2024-08-09T21:15:39.234Z",
+      "notes": "",
       "position": {
-        "lat": 41.3850639,
-        "lng": 2.1734035
+        "lat": "42.89206418807337",
+        "lng": "-7.668457031250001"
       },
-      "id": 98443199
+      "id": 98443202
+    },
+    {
+      "cityName": "Benin City",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-08-15T20:50:29.197Z",
+      "notes": "grew up here",
+      "position": {
+        "lat": "6.32075833898686",
+        "lng": "5.6195068359375"
+      },
+      "id": 98443203
     }
   ]
 }
