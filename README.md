@@ -18,7 +18,7 @@ This is a udemy course practice building a vite/react project
 
 ### Screenshot
 
-![](/img/Screen%20Shot%202024-07-26%20at%2013.10.21.png)
+![](/public/Screen%20Shot%202024-08-29%20at%2013.43.57.png)
 
 ### Links
 
