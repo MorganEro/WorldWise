@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { useAuth } from '../contexts/FakeAuthContext';
 import { useNavigate } from 'react-router-dom';
 

@@ -51,6 +51,7 @@ This is a udemy course practice building a vite/react project
 13. improved useContext component by handling state in a reducer function
 14. handled CRUD functionality
 15. fake authorization and protected routes component
+16. lazy loading and using suspend api for routes
 
 ### Continued development
 
