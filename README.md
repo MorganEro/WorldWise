@@ -23,7 +23,7 @@ This is a udemy course practice building a vite/react project
 ### Links
 
 - Solution URL: (https://github.com/MorganEro/WorldWise)
-- Live Site URL: (https://morganero.github.io/WorldWise/)
+- Live Site URL: (https://world-wise-54oq-9fnt6um5f-morganeros-projects.vercel.app/)
 
 ### Built with
 
