@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import styles from './PageNav.Module.css';
+import styles from './PageNav.module.css';
 import Logo from '../components/Logo';
 
 function PageNav() {
